@@ -1,0 +1,6 @@
+../Core/Src/i2c-lcd.c:14:6:lcd_send_cmd	32	static
+../Core/Src/i2c-lcd.c:34:6:lcd_send_data	32	static
+../Core/Src/i2c-lcd.c:54:6:lcd_clear	8	static
+../Core/Src/i2c-lcd.c:60:6:lcd_put_cur	16	static
+../Core/Src/i2c-lcd.c:76:6:lcd_init	8	static
+../Core/Src/i2c-lcd.c:107:6:lcd_send_string	16	static
