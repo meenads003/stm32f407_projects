@@ -1,0 +1,4 @@
+../Src/uart.c:5:6:UART2_Init	4	static
+../Src/uart.c:37:6:UART2_SendChar	16	static
+../Src/uart.c:43:6:UART2_SendString	16	static
+../Src/uart.c:50:6:UART2_IRQHandler	8	static

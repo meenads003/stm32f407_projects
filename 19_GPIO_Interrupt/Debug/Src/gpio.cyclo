@@ -1,0 +1,2 @@
+../Src/gpio.c:6:6:GPIO_Init	2
+../Src/gpio.c:43:6:LED_Toggle	1

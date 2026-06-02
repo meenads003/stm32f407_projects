@@ -1,0 +1,6 @@
+"./Src/main.o"
+"./Src/stm32f4xx_it.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/uart.o"
+"./Startup/startup_stm32f407vgtx.o"

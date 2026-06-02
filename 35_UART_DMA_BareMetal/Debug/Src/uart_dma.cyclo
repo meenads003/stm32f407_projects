@@ -1,0 +1,4 @@
+../Src/uart_dma.c:12:6:delay_ms	3
+../Src/uart_dma.c:25:6:UART2_Init	1
+../Src/uart_dma.c:54:6:DMA1_Stream6_Init	2
+../Src/uart_dma.c:87:6:UART_DMA_Send	2

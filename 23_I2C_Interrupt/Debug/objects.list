@@ -1,0 +1,7 @@
+"./Src/i2c_driver.o"
+"./Src/lcd_i2c.o"
+"./Src/main.o"
+"./Src/stm32f4xx_it.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f407vgtx.o"

@@ -1,0 +1,5 @@
+../Src/main.c:22:6:LED_Init	1
+../Src/main.c:31:6:LED_Toggle	1
+../Src/main.c:37:6:TIM2_Init	1
+../Src/main.c:52:6:TIM2_IRQHandler	2
+../Src/main.c:62:5:main	1

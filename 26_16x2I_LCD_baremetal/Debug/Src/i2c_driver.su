@@ -1,0 +1,7 @@
+../Src/i2c_driver.c:10:6:delay_ms	24	static
+../Src/i2c_driver.c:23:6:I2C1_Init	4	static
+../Src/i2c_driver.c:73:6:I2C1_Start	4	static
+../Src/i2c_driver.c:80:6:I2C1_Stop	4	static
+../Src/i2c_driver.c:85:6:I2C1_Address	16	static
+../Src/i2c_driver.c:95:6:I2C1_WriteByte	16	static
+../Src/i2c_driver.c:104:6:I2C1_Write	16	static

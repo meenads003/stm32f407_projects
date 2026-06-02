@@ -1,0 +1,8 @@
+../Src/main.c:4:6:delay_ms	24	static
+../Src/main.c:12:6:UART2_Init	4	static
+../Src/main.c:35:6:UART_SendChar	24	static
+../Src/main.c:46:6:UART_SendString	16	static
+../Src/main.c:53:6:ADC1_Init	4	static
+../Src/main.c:67:5:ADC1_Read	16	static
+../Src/main.c:84:6:print_num	32	static
+../Src/main.c:112:5:main	16	static
